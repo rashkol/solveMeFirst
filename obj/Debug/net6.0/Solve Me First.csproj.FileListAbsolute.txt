@@ -1,0 +1,15 @@
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\bin\Debug\net6.0\Solve Me First.exe
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\bin\Debug\net6.0\Solve Me First.deps.json
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\bin\Debug\net6.0\Solve Me First.runtimeconfig.json
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\bin\Debug\net6.0\Solve Me First.dll
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\bin\Debug\net6.0\Solve Me First.pdb
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.csproj.AssemblyReference.cache
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.AssemblyInfoInputs.cache
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.AssemblyInfo.cs
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.csproj.CoreCompileInputs.cache
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.dll
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\refint\Solve Me First.dll
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.pdb
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\Solve Me First.genruntimeconfig.cache
+C:\Users\rashitpine\Documents\Pratikler\HackerRankChallenges\Solve Me First\obj\Debug\net6.0\ref\Solve Me First.dll
