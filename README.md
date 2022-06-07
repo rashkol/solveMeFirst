@@ -1,0 +1,1 @@
+# solveMeFirst Program.cs içerisinde
